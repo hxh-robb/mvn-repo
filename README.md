@@ -1,5 +1,5 @@
 # How to use it
-Add following snippets to the pom.xml file:
+Add following snippets to the [pom.xml](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html):
 
 ```xml
 <repositories>
