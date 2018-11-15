@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.mybatis.spring.boot</groupId>
+  <artifactId>mybatis-spring-boot</artifactId>
+  <version>2.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181115.035406</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20181115035406</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.0-20181115.035406-1</value>
+        <updated>20181115035406</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
