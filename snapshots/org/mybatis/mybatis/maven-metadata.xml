@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.mybatis</groupId>
-  <artifactId>mybatis-parent</artifactId>
+  <artifactId>mybatis</artifactId>
   <versioning>
     <versions>
-      <version>31-SNAPSHOT</version>
+      <version>3.5.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181115023755</lastUpdated>
+    <lastUpdated>20181115024832</lastUpdated>
   </versioning>
 </metadata>

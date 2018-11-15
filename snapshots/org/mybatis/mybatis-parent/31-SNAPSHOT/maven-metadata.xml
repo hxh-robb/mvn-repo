@@ -5,21 +5,21 @@
   <version>31-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20181114.101355</timestamp>
+      <timestamp>20181115.023755</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20181114101355</lastUpdated>
+    <lastUpdated>20181115023755</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>31-20181114.101355-1</value>
-        <updated>20181114101355</updated>
+        <value>31-20181115.023755-1</value>
+        <updated>20181115023755</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>site</classifier>
         <extension>xml</extension>
-        <value>31-20181114.101355-1</value>
-        <updated>20181114101355</updated>
+        <value>31-20181115.023755-1</value>
+        <updated>20181115023755</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
