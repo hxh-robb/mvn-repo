@@ -6,6 +6,9 @@ Add following snippets to the [pom.xml](https://maven.apache.org/guides/introduc
   <repository>
     <id>robb-mvn-repo</id>
     <url>https://rawgit.com/hxh-robb/mvn-repo/master/releases</url>
+    <releases>
+      <enabled>true</enabled>
+    </releases>
   </repository>
   <repository>
     <id>robb-mvn-repo</id>
